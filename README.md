@@ -32,7 +32,7 @@ Ensure you have the following installed on your local machine:
 
 # Installation
 ## Clone this repository:
-git clone https://github.com/yourusername/visual-exploration-of-birthrates.git
+git clone https://github.com/KalyanKPothineni/visual-exploration-of-birthrates.git
 
 ## Navigate to the project directory:
 cd visual-exploration-of-birthrates
