@@ -67,7 +67,7 @@ The analysis covers the following key areas:
   
 # Data Sources
 The analysis utilizes data from reliable sources, including:
-- Public datasets (provide specific names and links if available).
+- Public datasets (From Kaggle and data.gov).
 
 # Usage
 This project is intended for educational purposes, policy-making, and research into birthrate trends. Users are encouraged to modify and expand the analysis to suit their needs.
