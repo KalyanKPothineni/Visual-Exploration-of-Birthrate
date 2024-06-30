@@ -1,4 +1,4 @@
-** Visual Exploration of Birthrates**
+# Visual Exploration of Birthrates
 This repo contains the implementation of the "Visual Exploration of Birthrates" project. The project goal is to analyze and visualize birthrate data to uncover patterns and trends across different regions and periods.
 
 ![images](https://github.com/KalyanKPothineni/Visual-Exploration-of-Birthrate/assets/174274413/c03a98ea-242e-4367-9f0a-7e724b4fe580)
